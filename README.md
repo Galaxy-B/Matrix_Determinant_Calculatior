@@ -1,3 +1,6 @@
-# Calculator for Matrix and Determinant
-// A project for basic calculation about Matrix and Determinant
-// on the progress of updating
+## 实现线性代数相关计算的程序组
+### 目前已经实现的功能：
+### ·计算行列式
+### ·矩阵的线性运算
+***
+#### 持续更新中
